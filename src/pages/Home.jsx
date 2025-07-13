@@ -5,7 +5,7 @@ export default function Home() {
     <div className="bg-gradient-to-br from-gray-900 to-gray-800 text-white min-h-screen">
       {/* Hero Section */}
       <section className="text-center py-24 px-4">
-        <h1 data-aos="fade-up" className="text-5xl font-bold mb-4 text-blue-400 drop-shadow-lg">
+        <h1  className="text-5xl font-bold mb-4 text-blue-400 drop-shadow-lg">
           Temukan Produk Modern & Elegan
         </h1>
         <p className="text-gray-300 max-w-xl mx-auto mb-8 text-lg">
